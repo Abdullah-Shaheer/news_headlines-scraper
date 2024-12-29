@@ -1,0 +1,1288 @@
+2024-12-29 20:41:36,058 - INFO - Starting the scraping process...
+2024-12-29 20:41:36,076 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 20:41:41,018 - INFO - Browser listening on: ws://127.0.0.1:51005/devtools/browser/790e809c-d163-4975-9885-b6f6aebcd0b8
+2024-12-29 20:41:58,212 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news
+2024-12-29 20:41:58,293 - INFO - Scraping completed successfully.
+2024-12-29 20:41:58,297 - INFO - Articles Found
+2024-12-29 20:41:58,305 - INFO - Starting the scraping process...
+2024-12-29 20:41:58,308 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:42:00,192 - INFO - Browser listening on: ws://127.0.0.1:51065/devtools/browser/87df7dc8-ff5d-461d-8b88-8568cc70fa8c
+2024-12-29 20:42:04,498 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:42:04,540 - INFO - Scraping completed successfully.
+2024-12-29 20:42:04,547 - INFO - terminate chrome process...
+2024-12-29 20:42:04,634 - INFO - terminate chrome process...
+2024-12-29 20:42:31,764 - INFO - Starting the scraping process...
+2024-12-29 20:42:31,768 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 20:42:39,459 - INFO - Starting the scraping process...
+2024-12-29 20:42:39,463 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 20:42:41,271 - INFO - Browser listening on: ws://127.0.0.1:51109/devtools/browser/bc8076c3-6c99-499b-9b66-9376b2723af4
+2024-12-29 20:42:47,185 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news
+2024-12-29 20:42:47,326 - INFO - Scraping completed successfully.
+2024-12-29 20:42:47,329 - INFO - Articles Found
+2024-12-29 20:42:47,338 - INFO - Starting the scraping process...
+2024-12-29 20:42:47,342 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:42:49,332 - INFO - Browser listening on: ws://127.0.0.1:51152/devtools/browser/9b2d971d-433d-4d5c-ad5a-b29650b8014a
+2024-12-29 20:42:53,680 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:42:53,722 - INFO - Scraping completed successfully.
+2024-12-29 20:42:53,738 - INFO - Starting the scraping process...
+2024-12-29 20:42:53,741 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 20:42:55,633 - INFO - Browser listening on: ws://127.0.0.1:51182/devtools/browser/2473ce72-183e-445c-a43f-feec77ede6ea
+2024-12-29 20:43:03,370 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 20:43:03,421 - INFO - Scraping completed successfully.
+2024-12-29 20:43:03,430 - INFO - Starting the scraping process...
+2024-12-29 20:43:03,434 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 20:43:05,185 - INFO - Browser listening on: ws://127.0.0.1:51218/devtools/browser/961cfdac-4fda-46ad-b38c-5b1f6a4ee404
+2024-12-29 20:43:10,873 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 20:43:10,917 - INFO - Scraping completed successfully.
+2024-12-29 20:43:10,935 - INFO - Starting the scraping process...
+2024-12-29 20:43:10,939 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 20:43:12,810 - INFO - Browser listening on: ws://127.0.0.1:51248/devtools/browser/d6edf29b-cba2-485c-90de-8eccea1c9edd
+2024-12-29 20:43:17,884 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 20:43:17,932 - INFO - Scraping completed successfully.
+2024-12-29 20:43:17,955 - INFO - Starting the scraping process...
+2024-12-29 20:43:17,959 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 20:43:19,848 - INFO - Browser listening on: ws://127.0.0.1:51276/devtools/browser/5e25a85b-c879-4967-8bef-aec7fad38fe1
+2024-12-29 20:43:35,097 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 20:43:35,134 - INFO - Scraping completed successfully.
+2024-12-29 20:43:35,143 - INFO - Starting the scraping process...
+2024-12-29 20:43:35,146 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 20:43:43,604 - INFO - Browser listening on: ws://127.0.0.1:51323/devtools/browser/c68aecc8-fd02-42cf-a8ef-ae1da2dc4b9d
+2024-12-29 20:43:48,131 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 20:43:48,184 - INFO - Scraping completed successfully.
+2024-12-29 20:43:48,194 - INFO - Starting the scraping process...
+2024-12-29 20:43:48,198 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:43:50,058 - INFO - Browser listening on: ws://127.0.0.1:51363/devtools/browser/cc1d19c5-afb2-45a3-a68e-f14c447a4315
+2024-12-29 20:43:54,450 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:43:54,493 - INFO - Scraping completed successfully.
+2024-12-29 20:43:54,509 - INFO - Starting the scraping process...
+2024-12-29 20:43:54,512 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 20:43:57,132 - INFO - Browser listening on: ws://127.0.0.1:51402/devtools/browser/7a7c4ac5-42f0-45a7-8fda-5bb243e9d00d
+2024-12-29 20:44:16,600 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 20:44:16,647 - INFO - Scraping completed successfully.
+2024-12-29 20:44:16,668 - INFO - Starting the scraping process...
+2024-12-29 20:44:16,672 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 20:44:21,851 - INFO - Browser listening on: ws://127.0.0.1:51481/devtools/browser/9bce659d-407c-43e4-935a-c24a076c3044
+2024-12-29 20:44:39,653 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 20:44:39,696 - INFO - Scraping completed successfully.
+2024-12-29 20:44:39,704 - INFO - Starting the scraping process...
+2024-12-29 20:44:39,707 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 20:44:42,690 - INFO - Browser listening on: ws://127.0.0.1:51518/devtools/browser/8bdcc3b3-c7ad-4d9c-afaa-60607958edd9
+2024-12-29 20:44:49,007 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 20:44:49,052 - INFO - Scraping completed successfully.
+2024-12-29 20:44:49,061 - INFO - Starting the scraping process...
+2024-12-29 20:44:49,065 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 20:44:51,874 - INFO - Browser listening on: ws://127.0.0.1:51561/devtools/browser/dc5ac7df-22ec-452e-a526-4318a6790aa8
+2024-12-29 20:45:01,509 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 20:45:01,582 - INFO - Scraping completed successfully.
+2024-12-29 20:45:01,597 - INFO - Starting the scraping process...
+2024-12-29 20:45:01,603 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 20:45:04,819 - INFO - Browser listening on: ws://127.0.0.1:51599/devtools/browser/256ed2f1-a845-4365-8ea9-dda1235d5795
+2024-12-29 20:45:13,152 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 20:45:13,208 - INFO - Scraping completed successfully.
+2024-12-29 20:45:13,229 - INFO - Starting the scraping process...
+2024-12-29 20:45:13,235 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 20:45:16,112 - INFO - Browser listening on: ws://127.0.0.1:51635/devtools/browser/e1a96817-4492-463b-910c-1ab266de6c9e
+2024-12-29 20:45:25,800 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 20:45:25,890 - INFO - Scraping completed successfully.
+2024-12-29 20:45:25,915 - INFO - Starting the scraping process...
+2024-12-29 20:45:25,918 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 20:45:29,218 - INFO - Browser listening on: ws://127.0.0.1:51665/devtools/browser/4ca85072-d289-4693-a5bb-6686fe301429
+2024-12-29 20:45:38,407 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 20:45:38,457 - INFO - Scraping completed successfully.
+2024-12-29 20:45:38,466 - INFO - Starting the scraping process...
+2024-12-29 20:45:38,470 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3dxz1vzdyzo
+2024-12-29 20:45:42,144 - INFO - Browser listening on: ws://127.0.0.1:51706/devtools/browser/15d76c25-3239-4199-9132-f0a929de5466
+2024-12-29 20:45:48,896 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3dxz1vzdyzo
+2024-12-29 20:45:48,945 - INFO - Scraping completed successfully.
+2024-12-29 20:45:48,964 - INFO - Starting the scraping process...
+2024-12-29 20:45:48,968 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 20:45:52,257 - INFO - Browser listening on: ws://127.0.0.1:51744/devtools/browser/bfc87f70-e1d0-4fa7-8670-12bc9c8a4ac3
+2024-12-29 20:45:59,511 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 20:45:59,562 - INFO - Scraping completed successfully.
+2024-12-29 20:45:59,573 - INFO - Starting the scraping process...
+2024-12-29 20:45:59,577 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 20:46:02,611 - INFO - Browser listening on: ws://127.0.0.1:51780/devtools/browser/8b260b46-0edf-459c-9dd4-9173772a9130
+2024-12-29 20:46:07,605 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 20:46:07,651 - INFO - Scraping completed successfully.
+2024-12-29 20:46:07,660 - INFO - Starting the scraping process...
+2024-12-29 20:46:07,663 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 20:46:11,097 - INFO - Browser listening on: ws://127.0.0.1:51806/devtools/browser/5cffabb9-2787-4b56-8630-f57c24fff25e
+2024-12-29 20:46:19,246 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 20:46:19,303 - INFO - Scraping completed successfully.
+2024-12-29 20:46:19,314 - INFO - Starting the scraping process...
+2024-12-29 20:46:19,318 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 20:46:22,042 - INFO - Browser listening on: ws://127.0.0.1:51838/devtools/browser/bd8ebfb7-fedd-4333-864a-f58ab3aad65f
+2024-12-29 20:46:28,780 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 20:46:28,843 - INFO - Scraping completed successfully.
+2024-12-29 20:46:28,853 - INFO - Starting the scraping process...
+2024-12-29 20:46:28,858 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 20:46:32,564 - INFO - Browser listening on: ws://127.0.0.1:51879/devtools/browser/ac65d93e-b907-4731-9c92-7e87b7c079f5
+2024-12-29 20:46:38,466 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 20:46:38,507 - INFO - Scraping completed successfully.
+2024-12-29 20:46:38,516 - INFO - Starting the scraping process...
+2024-12-29 20:46:38,519 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 20:46:46,042 - INFO - Browser listening on: ws://127.0.0.1:51924/devtools/browser/5af00eae-7696-4285-8f1e-05f3c8ee67a1
+2024-12-29 20:46:53,977 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 20:46:54,021 - INFO - Scraping completed successfully.
+2024-12-29 20:46:54,048 - INFO - Starting the scraping process...
+2024-12-29 20:46:54,051 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 20:46:57,064 - INFO - Browser listening on: ws://127.0.0.1:51954/devtools/browser/1c9c9549-0424-42e3-bd7d-3e4bec28d13f
+2024-12-29 20:47:05,938 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 20:47:05,986 - INFO - Scraping completed successfully.
+2024-12-29 20:47:05,995 - INFO - Starting the scraping process...
+2024-12-29 20:47:05,998 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c98lkrdkz70o
+2024-12-29 20:47:09,006 - INFO - Browser listening on: ws://127.0.0.1:51988/devtools/browser/33cd0825-2d09-4cac-9e7f-8be04195c0ce
+2024-12-29 20:47:15,311 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c98lkrdkz70o
+2024-12-29 20:47:15,356 - INFO - Scraping completed successfully.
+2024-12-29 20:47:15,365 - INFO - Starting the scraping process...
+2024-12-29 20:47:15,370 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvg90yz4l1eo
+2024-12-29 20:47:18,811 - INFO - Browser listening on: ws://127.0.0.1:52017/devtools/browser/3e45e974-7b25-43cd-8cfc-d35546eebc64
+2024-12-29 20:47:26,778 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvg90yz4l1eo
+2024-12-29 20:47:26,820 - INFO - Scraping completed successfully.
+2024-12-29 20:47:26,828 - INFO - Starting the scraping process...
+2024-12-29 20:47:26,831 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 20:47:30,127 - INFO - Browser listening on: ws://127.0.0.1:52043/devtools/browser/586a7107-6999-4aac-a75a-1eb50683e63b
+2024-12-29 20:47:37,765 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 20:47:37,811 - INFO - Scraping completed successfully.
+2024-12-29 20:47:37,821 - INFO - Starting the scraping process...
+2024-12-29 20:47:37,824 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 20:47:40,793 - INFO - Browser listening on: ws://127.0.0.1:52072/devtools/browser/faef5f3d-816c-4f58-8de1-0a2203fa3775
+2024-12-29 20:47:53,922 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 20:47:53,970 - INFO - Scraping completed successfully.
+2024-12-29 20:47:53,999 - INFO - Starting the scraping process...
+2024-12-29 20:47:54,003 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 20:47:58,567 - INFO - Browser listening on: ws://127.0.0.1:52124/devtools/browser/09a16e19-48fa-4fba-81dd-b95257a0019a
+2024-12-29 20:48:02,822 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 20:48:02,855 - INFO - Scraping completed successfully.
+2024-12-29 20:48:02,862 - INFO - Starting the scraping process...
+2024-12-29 20:48:02,865 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 20:48:05,095 - INFO - Browser listening on: ws://127.0.0.1:52154/devtools/browser/0f91f891-2715-4228-81e8-e44949e09686
+2024-12-29 20:48:11,708 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 20:48:11,769 - INFO - Scraping completed successfully.
+2024-12-29 20:48:11,779 - INFO - Starting the scraping process...
+2024-12-29 20:48:11,783 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 20:48:18,174 - INFO - Browser listening on: ws://127.0.0.1:52187/devtools/browser/188ba285-1def-4109-9cd2-f914e177cf85
+2024-12-29 20:48:25,731 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 20:48:25,789 - INFO - Scraping completed successfully.
+2024-12-29 20:48:25,801 - INFO - Starting the scraping process...
+2024-12-29 20:48:25,804 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 20:48:28,792 - INFO - Browser listening on: ws://127.0.0.1:52223/devtools/browser/cdfb7074-3729-4ef1-89df-da7ad0331fe7
+2024-12-29 20:48:36,586 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 20:48:36,639 - INFO - Scraping completed successfully.
+2024-12-29 20:48:36,665 - INFO - Starting the scraping process...
+2024-12-29 20:48:36,669 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 20:48:39,120 - INFO - Browser listening on: ws://127.0.0.1:52257/devtools/browser/d5cc169c-1f1e-4c24-9e32-7a5623a531b5
+2024-12-29 20:48:44,366 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 20:48:44,405 - INFO - Scraping completed successfully.
+2024-12-29 20:48:44,413 - INFO - Starting the scraping process...
+2024-12-29 20:48:44,416 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:48:46,941 - INFO - Browser listening on: ws://127.0.0.1:52294/devtools/browser/112b4b48-3ef6-471a-9cc0-55d7b76c4198
+2024-12-29 20:48:52,146 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 20:48:52,188 - INFO - Scraping completed successfully.
+2024-12-29 20:48:52,204 - INFO - Starting the scraping process...
+2024-12-29 20:48:52,207 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 20:48:54,194 - INFO - Browser listening on: ws://127.0.0.1:52337/devtools/browser/de7a4ca0-8104-4353-9524-c2951aa14c2d
+2024-12-29 20:48:58,935 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 20:48:58,974 - INFO - Scraping completed successfully.
+2024-12-29 20:48:58,982 - INFO - Starting the scraping process...
+2024-12-29 20:48:58,985 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 20:49:00,897 - INFO - Browser listening on: ws://127.0.0.1:52367/devtools/browser/a8800e56-32e0-40e6-b0c2-070258046265
+2024-12-29 20:49:04,900 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 20:49:04,936 - INFO - Scraping completed successfully.
+2024-12-29 20:49:04,944 - INFO - Starting the scraping process...
+2024-12-29 20:49:04,947 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 20:49:07,380 - INFO - Browser listening on: ws://127.0.0.1:52397/devtools/browser/6492e55b-be87-4233-923c-d018419c4e40
+2024-12-29 20:49:13,181 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 20:49:13,221 - INFO - Scraping completed successfully.
+2024-12-29 20:49:13,229 - INFO - Starting the scraping process...
+2024-12-29 20:49:13,232 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 20:49:16,250 - INFO - Browser listening on: ws://127.0.0.1:52430/devtools/browser/3e83a3a4-e541-4f11-ab26-dc9efa1738e4
+2024-12-29 20:49:22,203 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 20:49:22,244 - INFO - Scraping completed successfully.
+2024-12-29 20:49:22,252 - INFO - Starting the scraping process...
+2024-12-29 20:49:22,256 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 20:49:25,722 - INFO - Browser listening on: ws://127.0.0.1:52462/devtools/browser/67a6eb96-0997-4220-a75e-270f8ee05c33
+2024-12-29 20:49:44,599 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 20:49:44,698 - INFO - Scraping completed successfully.
+2024-12-29 20:49:44,716 - INFO - Starting the scraping process...
+2024-12-29 20:49:44,719 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c86wd1y7v2xo
+2024-12-29 20:49:51,869 - INFO - Browser listening on: ws://127.0.0.1:52515/devtools/browser/672543d1-3343-4b94-8266-29c91e50ac5c
+2024-12-29 20:49:57,371 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c86wd1y7v2xo
+2024-12-29 20:49:57,412 - INFO - Scraping completed successfully.
+2024-12-29 20:49:57,420 - INFO - Starting the scraping process...
+2024-12-29 20:49:57,424 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 20:50:00,005 - INFO - Browser listening on: ws://127.0.0.1:52551/devtools/browser/333c123b-868a-4bc8-8a4b-6c11424ba0fe
+2024-12-29 20:50:02,554 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:50:02,554 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 20:50:05,074 - INFO - Browser listening on: ws://127.0.0.1:52560/devtools/browser/1a142846-56ce-4bbb-a72d-3623f86a03e0
+2024-12-29 20:50:12,561 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 20:50:12,619 - INFO - Scraping completed successfully.
+2024-12-29 20:50:12,656 - INFO - Starting the scraping process...
+2024-12-29 20:50:12,660 - INFO - Sending request to URL: https://www.bbc.com/news/sport/articles/cvg981xwdw4o
+2024-12-29 20:50:15,416 - INFO - Browser listening on: ws://127.0.0.1:52582/devtools/browser/6ad8bb7e-d076-489c-9136-f978999c3379
+2024-12-29 20:50:17,836 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:50:17,836 - INFO - Retrying with modified URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 20:50:19,864 - INFO - Browser listening on: ws://127.0.0.1:52593/devtools/browser/21151d41-9e4c-4dd4-b629-239aff6586aa
+2024-12-29 20:50:25,985 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 20:50:26,061 - INFO - Scraping completed successfully.
+2024-12-29 20:50:26,107 - INFO - Starting the scraping process...
+2024-12-29 20:50:26,110 - INFO - Sending request to URL: https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 20:50:29,141 - INFO - Browser listening on: ws://127.0.0.1:52615/devtools/browser/c95dcb3a-56be-41b7-b190-d957d1ec4966
+2024-12-29 20:50:32,798 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:50:32,798 - INFO - Retrying with modified URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 20:50:37,101 - INFO - Browser listening on: ws://127.0.0.1:52632/devtools/browser/e22ad171-c570-4355-a276-2ae2a4daa262
+2024-12-29 20:50:56,818 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 20:50:56,891 - INFO - Scraping completed successfully.
+2024-12-29 20:50:56,937 - INFO - Starting the scraping process...
+2024-12-29 20:50:56,943 - INFO - Sending request to URL: https://www.bbc.com/news/sport/tennis/articles/cn9gp1jpqvgo
+2024-12-29 20:51:01,715 - INFO - Browser listening on: ws://127.0.0.1:52674/devtools/browser/9c2e3bcf-1b63-4598-8ada-d8f8ee1a55d9
+2024-12-29 20:51:07,061 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:51:07,062 - INFO - Retrying with modified URL: https://www.bbc.com/sport/tennis/articles/cn9gp1jpqvgo
+2024-12-29 20:51:10,919 - INFO - Browser listening on: ws://127.0.0.1:52683/devtools/browser/aa9b3b47-756c-4f40-9e40-d76f9e046594
+2024-12-29 20:51:18,990 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/tennis/articles/cn9gp1jpqvgo
+2024-12-29 20:51:19,043 - INFO - Scraping completed successfully.
+2024-12-29 20:51:19,079 - INFO - Starting the scraping process...
+2024-12-29 20:51:19,082 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 20:51:22,381 - INFO - Browser listening on: ws://127.0.0.1:52697/devtools/browser/807cddaa-dd0d-447e-82dc-cd04d2bf29d4
+2024-12-29 20:51:28,265 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:51:28,266 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 20:51:31,948 - INFO - Browser listening on: ws://127.0.0.1:52712/devtools/browser/1da630fc-a906-423b-95ee-6803253ac2f7
+2024-12-29 20:52:04,570 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 20:52:04,637 - INFO - Scraping completed successfully.
+2024-12-29 20:52:04,678 - INFO - Starting the scraping process...
+2024-12-29 20:52:04,681 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 20:52:08,424 - INFO - Browser listening on: ws://127.0.0.1:52849/devtools/browser/ed8ea85a-e2e7-48e3-8f23-7ead42461e41
+2024-12-29 20:52:14,791 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:52:14,791 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 20:52:17,232 - INFO - Browser listening on: ws://127.0.0.1:52865/devtools/browser/177b6657-f3b5-452c-a477-4a1371e1b86a
+2024-12-29 20:52:23,023 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 20:52:23,084 - INFO - Scraping completed successfully.
+2024-12-29 20:52:23,113 - INFO - Starting the scraping process...
+2024-12-29 20:52:23,117 - INFO - Sending request to URL: https://www.bbc.com/news/sport/articles/cvg981xwdw4o
+2024-12-29 20:52:25,894 - INFO - Browser listening on: ws://127.0.0.1:52879/devtools/browser/ffb8e58f-d218-46cd-8c81-cca6cde805d3
+2024-12-29 20:52:31,929 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 20:52:31,930 - INFO - Retrying with modified URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 20:52:35,533 - INFO - Browser listening on: ws://127.0.0.1:52890/devtools/browser/2e6e95d7-a06c-4fc6-8b31-9d2c7c5a16f2
+2024-12-29 20:52:56,604 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 20:52:56,690 - INFO - Scraping completed successfully.
+2024-12-29 20:53:08,589 - INFO - terminate chrome process...
+2024-12-29 20:53:08,853 - INFO - terminate chrome process...
+2024-12-29 20:53:08,935 - INFO - terminate chrome process...
+2024-12-29 20:53:09,468 - INFO - terminate chrome process...
+2024-12-29 20:53:09,536 - INFO - terminate chrome process...
+2024-12-29 20:53:09,653 - INFO - terminate chrome process...
+2024-12-29 20:53:09,905 - INFO - terminate chrome process...
+2024-12-29 20:53:09,996 - INFO - terminate chrome process...
+2024-12-29 20:53:10,074 - INFO - terminate chrome process...
+2024-12-29 20:53:10,236 - INFO - terminate chrome process...
+2024-12-29 20:53:10,321 - INFO - terminate chrome process...
+2024-12-29 20:53:10,419 - INFO - terminate chrome process...
+2024-12-29 20:53:10,474 - INFO - terminate chrome process...
+2024-12-29 20:53:10,585 - INFO - terminate chrome process...
+2024-12-29 20:53:10,849 - INFO - terminate chrome process...
+2024-12-29 20:53:11,004 - INFO - terminate chrome process...
+2024-12-29 20:53:11,187 - INFO - terminate chrome process...
+2024-12-29 20:53:11,291 - INFO - terminate chrome process...
+2024-12-29 20:53:11,390 - INFO - terminate chrome process...
+2024-12-29 20:53:11,507 - INFO - terminate chrome process...
+2024-12-29 20:53:11,655 - INFO - terminate chrome process...
+2024-12-29 20:53:11,789 - INFO - terminate chrome process...
+2024-12-29 20:53:11,906 - INFO - terminate chrome process...
+2024-12-29 20:53:12,006 - INFO - terminate chrome process...
+2024-12-29 20:53:12,159 - INFO - terminate chrome process...
+2024-12-29 20:53:12,341 - INFO - terminate chrome process...
+2024-12-29 20:53:12,491 - INFO - terminate chrome process...
+2024-12-29 20:53:12,673 - INFO - terminate chrome process...
+2024-12-29 20:53:12,806 - INFO - terminate chrome process...
+2024-12-29 20:53:13,368 - INFO - terminate chrome process...
+2024-12-29 20:53:13,700 - INFO - terminate chrome process...
+2024-12-29 20:53:13,820 - INFO - terminate chrome process...
+2024-12-29 20:53:13,971 - INFO - terminate chrome process...
+2024-12-29 20:53:14,087 - INFO - terminate chrome process...
+2024-12-29 20:53:14,570 - INFO - terminate chrome process...
+2024-12-29 20:53:14,910 - INFO - terminate chrome process...
+2024-12-29 20:53:15,039 - INFO - terminate chrome process...
+2024-12-29 20:53:15,156 - INFO - terminate chrome process...
+2024-12-29 20:53:16,083 - INFO - terminate chrome process...
+2024-12-29 20:53:16,164 - INFO - terminate chrome process...
+2024-12-29 20:53:16,249 - INFO - terminate chrome process...
+2024-12-29 20:53:16,634 - INFO - terminate chrome process...
+2024-12-29 20:53:16,806 - INFO - terminate chrome process...
+2024-12-29 20:53:17,011 - INFO - terminate chrome process...
+2024-12-29 20:53:17,248 - INFO - terminate chrome process...
+2024-12-29 20:53:17,376 - INFO - terminate chrome process...
+2024-12-29 20:53:19,300 - INFO - terminate chrome process...
+2024-12-29 20:53:19,307 - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\Abdullah\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Abdullah\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-29 20:53:20,038 - INFO - terminate chrome process...
+2024-12-29 20:53:20,167 - INFO - terminate chrome process...
+2024-12-29 20:53:20,251 - INFO - terminate chrome process...
+2024-12-29 20:53:20,508 - INFO - terminate chrome process...
+2024-12-29 20:53:20,661 - INFO - terminate chrome process...
+2024-12-29 20:53:20,808 - INFO - terminate chrome process...
+2024-12-29 21:02:19,330 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 21:02:24,703 - INFO - Browser listening on: ws://127.0.0.1:53386/devtools/browser/e149cb8d-5613-406c-8d2f-7a879914990f
+2024-12-29 21:02:42,519 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news
+2024-12-29 21:02:42,599 - INFO - Scraped https://www.bbc.com/news.
+2024-12-29 21:02:42,603 - INFO - Articles Found
+2024-12-29 21:02:42,614 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:02:46,911 - INFO - Browser listening on: ws://127.0.0.1:53446/devtools/browser/85f12e31-1b0f-460c-9975-a9779821df0e
+2024-12-29 21:02:54,771 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:02:54,827 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 21:02:54,855 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:02:56,933 - INFO - Browser listening on: ws://127.0.0.1:53480/devtools/browser/522af534-0c82-4ecf-978c-295e2b535aa0
+2024-12-29 21:03:04,828 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:03:04,886 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 21:03:04,898 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 21:03:06,892 - INFO - Browser listening on: ws://127.0.0.1:53525/devtools/browser/b6ea18d4-08d7-4357-bd43-c4ed10f00e75
+2024-12-29 21:03:15,819 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 21:03:15,872 - INFO - Scraped https://www.bbc.com/news/articles/cx2n35j5340o.
+2024-12-29 21:03:15,895 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:03:22,692 - INFO - Browser listening on: ws://127.0.0.1:53571/devtools/browser/82e5191b-c079-4a0b-8f81-ee1e85204f2f
+2024-12-29 21:03:29,085 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:03:29,134 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 21:03:29,161 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:03:32,523 - INFO - Browser listening on: ws://127.0.0.1:53616/devtools/browser/f87df161-d8e5-41fa-9e4a-e27bc3347f6e
+2024-12-29 21:04:16,643 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:04:16,678 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 21:04:16,689 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:04:24,432 - INFO - Browser listening on: ws://127.0.0.1:53689/devtools/browser/472c7ae4-070b-46fe-995e-52f00e85ac63
+2024-12-29 21:04:32,764 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:04:32,805 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 21:04:32,815 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:04:34,675 - INFO - Browser listening on: ws://127.0.0.1:53727/devtools/browser/7862e756-adad-4ac1-8845-8e20d875aa4f
+2024-12-29 21:04:44,016 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:04:44,060 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 21:04:44,081 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 21:04:45,941 - INFO - Browser listening on: ws://127.0.0.1:53762/devtools/browser/394ed50d-8d44-49ef-be31-f9622005d003
+2024-12-29 21:04:50,866 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 21:04:50,871 - INFO - Scraped https://www.bbc.com/news/articles/cly722nj2z6o.
+2024-12-29 21:04:50,876 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 21:04:52,875 - INFO - Browser listening on: ws://127.0.0.1:53785/devtools/browser/fbc00859-6271-4e61-b4fe-bbf1cf159b37
+2024-12-29 21:04:59,361 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 21:04:59,400 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2z2npwvo.
+2024-12-29 21:04:59,410 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:05:01,507 - INFO - Browser listening on: ws://127.0.0.1:53817/devtools/browser/ab9d0a44-9731-4bda-be05-b943d1d4497c
+2024-12-29 21:05:06,928 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:05:06,979 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 21:05:06,990 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 21:05:09,227 - INFO - Browser listening on: ws://127.0.0.1:53846/devtools/browser/c3733168-36d8-4a2f-a5ae-935d5c2bd10b
+2024-12-29 21:05:16,225 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 21:05:16,288 - INFO - Scraped https://www.bbc.com/news/articles/clyv7gxp02yo.
+2024-12-29 21:05:16,301 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 21:05:18,231 - INFO - Browser listening on: ws://127.0.0.1:53879/devtools/browser/300af709-891b-4b49-a7a4-7fac94262ba7
+2024-12-29 21:05:24,310 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 21:05:24,361 - INFO - Scraped https://www.bbc.com/news/articles/cz6jynn5w9no.
+2024-12-29 21:05:24,382 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:05:26,847 - INFO - Browser listening on: ws://127.0.0.1:53915/devtools/browser/063400ce-7681-4cce-a3e8-14b5ea4f56f4
+2024-12-29 21:06:38,214 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:06:38,319 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 21:06:38,340 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:06:41,647 - INFO - Browser listening on: ws://127.0.0.1:54021/devtools/browser/9a766c9e-f658-4edd-8064-f4e612e4f3e4
+2024-12-29 21:06:50,775 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:06:50,823 - INFO - Scraped https://www.bbc.com/news/articles/cy531yl2ld7o.
+2024-12-29 21:06:50,837 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3dxz1vzdyzo
+2024-12-29 21:06:52,800 - INFO - Browser listening on: ws://127.0.0.1:54053/devtools/browser/ff3eb495-c0a3-4398-ad68-be787094f609
+2024-12-29 21:06:58,082 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3dxz1vzdyzo
+2024-12-29 21:06:58,131 - INFO - Scraped https://www.bbc.com/news/articles/c3dxz1vzdyzo.
+2024-12-29 21:06:58,153 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 21:07:00,008 - INFO - Browser listening on: ws://127.0.0.1:54082/devtools/browser/357bee0e-1d53-4945-9b5f-7c275484de78
+2024-12-29 21:07:07,167 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 21:07:07,216 - INFO - Scraped https://www.bbc.com/news/articles/ckg8dg3ke40o.
+2024-12-29 21:07:07,230 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:07:09,476 - INFO - Browser listening on: ws://127.0.0.1:54115/devtools/browser/4de10d92-3363-40c5-8922-c9f63567cfdb
+2024-12-29 21:07:15,426 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:07:15,477 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 21:07:15,490 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:07:17,614 - INFO - Browser listening on: ws://127.0.0.1:54151/devtools/browser/8d174b61-2aed-4958-a66d-b865baa7142e
+2024-12-29 21:07:24,793 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:07:24,841 - INFO - Scraped https://www.bbc.com/news/articles/cy531yl2ld7o.
+2024-12-29 21:07:24,855 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:07:27,197 - INFO - Browser listening on: ws://127.0.0.1:54192/devtools/browser/bdeba4fa-4c74-41a1-be69-3eadcff1da90
+2024-12-29 21:07:33,545 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:07:33,598 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 21:07:33,611 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 21:07:35,564 - INFO - Browser listening on: ws://127.0.0.1:54222/devtools/browser/81701e44-080b-4ac7-9100-3da98ccf4b3f
+2024-12-29 21:07:41,759 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 21:07:41,805 - INFO - Scraped https://www.bbc.com/news/articles/cvgxz76m1g8o.
+2024-12-29 21:07:41,816 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:07:43,814 - INFO - Browser listening on: ws://127.0.0.1:54253/devtools/browser/d20047b1-fad5-44b9-94e0-a18f577e2ff5
+2024-12-29 21:07:50,210 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:07:50,260 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 21:07:50,273 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 21:07:52,516 - INFO - Browser listening on: ws://127.0.0.1:54286/devtools/browser/fc94ebfc-c6a5-47b2-b41b-139c6656462a
+2024-12-29 21:07:58,922 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 21:07:58,968 - INFO - Scraped https://www.bbc.com/news/articles/cqx8l1533j5o.
+2024-12-29 21:07:58,980 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c98lkrdkz70o
+2024-12-29 21:08:00,977 - INFO - Browser listening on: ws://127.0.0.1:54325/devtools/browser/ca442f8a-233c-4456-9149-2f7020fdf723
+2024-12-29 21:08:18,533 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c98lkrdkz70o
+2024-12-29 21:08:18,582 - INFO - Scraped https://www.bbc.com/news/articles/c98lkrdkz70o.
+2024-12-29 21:08:18,594 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvg90yz4l1eo
+2024-12-29 21:08:22,481 - INFO - Browser listening on: ws://127.0.0.1:54407/devtools/browser/4d85b9b6-8423-4408-a26b-4051e9f08c70
+2024-12-29 21:08:29,737 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvg90yz4l1eo
+2024-12-29 21:08:29,778 - INFO - Scraped https://www.bbc.com/news/articles/cvg90yz4l1eo.
+2024-12-29 21:08:29,790 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:08:32,019 - INFO - Browser listening on: ws://127.0.0.1:54448/devtools/browser/46238ce9-31f6-46e3-b498-d899c31d0761
+2024-12-29 21:08:42,170 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:08:42,211 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 21:08:42,223 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 21:08:44,598 - INFO - Browser listening on: ws://127.0.0.1:54511/devtools/browser/67ec3353-eef2-40d3-8b9c-1e7b9bf1f18c
+2024-12-29 21:09:01,410 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 21:09:01,459 - INFO - Scraped https://www.bbc.com/news/articles/cx26v70n5z4o.
+2024-12-29 21:09:01,490 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 21:09:04,916 - INFO - Browser listening on: ws://127.0.0.1:54636/devtools/browser/af807e79-e99b-4e98-a041-be56d502af47
+2024-12-29 21:09:15,530 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 21:09:15,568 - INFO - Scraped https://www.bbc.com/news/articles/c623lerlr19o.
+2024-12-29 21:09:15,580 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 21:09:18,912 - INFO - Browser listening on: ws://127.0.0.1:54679/devtools/browser/5b704ca1-66de-4956-8041-d5cdb0f8df36
+2024-12-29 21:09:25,808 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 21:09:25,850 - INFO - Scraped https://www.bbc.com/news/articles/cqx8l1533j5o.
+2024-12-29 21:09:25,861 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:09:27,811 - INFO - Browser listening on: ws://127.0.0.1:54729/devtools/browser/a1988bce-7164-4782-bd0d-1532f1e2e650
+2024-12-29 21:09:33,663 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:09:33,710 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 21:09:33,737 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 21:09:35,560 - INFO - Browser listening on: ws://127.0.0.1:54784/devtools/browser/2ec6a3a4-ea6c-42bb-aa04-92066f257182
+2024-12-29 21:09:43,479 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 21:09:43,520 - INFO - Scraped https://www.bbc.com/news/articles/c3we2p3l36jo.
+2024-12-29 21:09:43,531 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:09:49,007 - INFO - Browser listening on: ws://127.0.0.1:54870/devtools/browser/e5ee75c2-6dc3-4b96-9486-74a763fa9572
+2024-12-29 21:09:53,830 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:09:53,883 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 21:09:53,895 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:09:55,896 - INFO - Browser listening on: ws://127.0.0.1:54902/devtools/browser/725d3a37-7926-4f61-a526-7bd87e3d2f88
+2024-12-29 21:10:01,216 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:10:01,259 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 21:10:01,278 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:10:03,150 - INFO - Browser listening on: ws://127.0.0.1:54933/devtools/browser/db840ead-766b-4fd6-90fc-365e2a0dd4ff
+2024-12-29 21:10:08,084 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:10:08,123 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 21:10:08,134 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:10:09,994 - INFO - Browser listening on: ws://127.0.0.1:54963/devtools/browser/8eb7924c-a032-4329-85d1-3323929f8ae1
+2024-12-29 21:10:14,804 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:10:14,839 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 21:10:14,850 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 21:10:17,130 - INFO - Browser listening on: ws://127.0.0.1:54997/devtools/browser/15807565-5286-4e8a-be3a-a6d121329134
+2024-12-29 21:10:30,382 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 21:10:30,420 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 21:10:30,430 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:10:32,754 - INFO - Browser listening on: ws://127.0.0.1:55035/devtools/browser/b27710bb-609f-4b33-a4cf-4e0c41487964
+2024-12-29 21:11:32,286 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:11:32,369 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 21:11:32,386 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:11:40,075 - INFO - Browser listening on: ws://127.0.0.1:55120/devtools/browser/a1b53828-72f8-4e85-9317-dd3b49e26d2c
+2024-12-29 21:11:45,182 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:11:45,222 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 21:11:45,233 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 21:11:50,273 - INFO - Browser listening on: ws://127.0.0.1:55153/devtools/browser/038d65cd-8cd4-4d0c-b330-4f80212ba9ed
+2024-12-29 21:11:58,017 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cqx8l1533j5o
+2024-12-29 21:11:58,057 - INFO - Scraped https://www.bbc.com/news/articles/cqx8l1533j5o.
+2024-12-29 21:11:58,068 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:11:59,807 - INFO - Browser listening on: ws://127.0.0.1:55187/devtools/browser/8a6805e8-7e56-4da7-905e-08637d494c41
+2024-12-29 21:12:02,042 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:12:02,042 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:12:03,918 - INFO - Browser listening on: ws://127.0.0.1:55196/devtools/browser/c1e0adc3-b2c9-4355-a1e5-64c0fe0a7b0a
+2024-12-29 21:12:30,051 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:12:30,104 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 21:12:30,104 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 21:12:30,142 - INFO - Sending request to URL: https://www.bbc.com/news/sport/articles/cvg981xwdw4o
+2024-12-29 21:12:31,883 - INFO - Browser listening on: ws://127.0.0.1:55242/devtools/browser/bc1eb0ec-c8c0-4d69-b665-dc34adcb2d3a
+2024-12-29 21:12:34,397 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:12:34,397 - INFO - Retrying with modified URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 21:12:36,411 - INFO - Browser listening on: ws://127.0.0.1:55251/devtools/browser/133f0e27-dd28-44cf-b36a-b5cadf85806e
+2024-12-29 21:12:51,139 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 21:12:51,209 - INFO - Scraped https://www.bbc.com/sport/articles/cvg981xwdw4o.
+2024-12-29 21:12:51,209 - INFO - Scraped https://www.bbc.com/news/sport/articles/cvg981xwdw4o.
+2024-12-29 21:12:51,258 - INFO - Sending request to URL: https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 21:12:53,022 - INFO - Browser listening on: ws://127.0.0.1:55281/devtools/browser/b34bcd8c-1a75-43e6-a967-06631408a93d
+2024-12-29 21:12:56,116 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:12:56,116 - INFO - Retrying with modified URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 21:12:58,057 - INFO - Browser listening on: ws://127.0.0.1:55290/devtools/browser/216064b2-9f32-4bbc-937a-0086e5a23263
+2024-12-29 21:13:06,345 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 21:13:06,397 - INFO - Scraped https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo.
+2024-12-29 21:13:06,397 - INFO - Scraped https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo.
+2024-12-29 21:13:06,436 - INFO - Sending request to URL: https://www.bbc.com/news/sport/tennis/articles/cn9gp1jpqvgo
+2024-12-29 21:13:20,122 - INFO - Browser listening on: ws://127.0.0.1:55381/devtools/browser/31a670b0-fd02-4fcd-ba26-32fe8b477865
+2024-12-29 21:13:23,624 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:13:23,625 - INFO - Retrying with modified URL: https://www.bbc.com/sport/tennis/articles/cn9gp1jpqvgo
+2024-12-29 21:13:25,563 - INFO - Browser listening on: ws://127.0.0.1:55414/devtools/browser/1315462c-75c7-4e2c-a2c2-2b0003ae1c18
+2024-12-29 21:13:38,989 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/tennis/articles/cn9gp1jpqvgo
+2024-12-29 21:13:39,040 - INFO - Scraped https://www.bbc.com/sport/tennis/articles/cn9gp1jpqvgo.
+2024-12-29 21:13:39,040 - INFO - Scraped https://www.bbc.com/news/sport/tennis/articles/cn9gp1jpqvgo.
+2024-12-29 21:13:39,077 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:13:40,981 - INFO - Browser listening on: ws://127.0.0.1:55435/devtools/browser/2b97949d-b2c8-43bb-a4e4-f221c68a466a
+2024-12-29 21:13:43,905 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:13:43,905 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:13:45,808 - INFO - Browser listening on: ws://127.0.0.1:55444/devtools/browser/9c5015d0-68d8-4118-944c-8b4316053091
+2024-12-29 21:13:55,622 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:13:55,674 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 21:13:55,674 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 21:13:55,711 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 21:13:58,186 - INFO - Browser listening on: ws://127.0.0.1:55477/devtools/browser/94aec7b3-84b0-4807-b1d6-49b7e6ae9515
+2024-12-29 21:14:00,814 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:14:00,814 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 21:14:02,797 - INFO - Browser listening on: ws://127.0.0.1:55506/devtools/browser/74e4a487-b213-44de-96cc-653c78fa4284
+2024-12-29 21:14:09,294 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 21:14:09,348 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 21:14:09,348 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 21:14:09,378 - INFO - Sending request to URL: https://www.bbc.com/news/sport/articles/cvg981xwdw4o
+2024-12-29 21:14:12,106 - INFO - Browser listening on: ws://127.0.0.1:55561/devtools/browser/647a9df5-78e5-425a-a60d-ccc12f31c3c1
+2024-12-29 21:14:16,595 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:14:16,596 - INFO - Retrying with modified URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 21:14:18,576 - INFO - Browser listening on: ws://127.0.0.1:55585/devtools/browser/626bf886-8fbd-4b32-b628-077dbab53924
+2024-12-29 21:14:26,373 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 21:14:26,441 - INFO - Scraped https://www.bbc.com/sport/articles/cvg981xwdw4o.
+2024-12-29 21:14:26,441 - INFO - Scraped https://www.bbc.com/news/sport/articles/cvg981xwdw4o.
+2024-12-29 21:14:28,022 - INFO - terminate chrome process...
+2024-12-29 21:14:28,101 - INFO - terminate chrome process...
+2024-12-29 21:14:28,153 - INFO - terminate chrome process...
+2024-12-29 21:14:28,215 - INFO - terminate chrome process...
+2024-12-29 21:14:28,279 - INFO - terminate chrome process...
+2024-12-29 21:14:28,383 - INFO - terminate chrome process...
+2024-12-29 21:14:28,421 - INFO - terminate chrome process...
+2024-12-29 21:14:28,459 - INFO - terminate chrome process...
+2024-12-29 21:14:28,496 - INFO - terminate chrome process...
+2024-12-29 21:14:28,588 - INFO - terminate chrome process...
+2024-12-29 21:14:28,636 - INFO - terminate chrome process...
+2024-12-29 21:14:28,713 - INFO - terminate chrome process...
+2024-12-29 21:14:28,832 - INFO - terminate chrome process...
+2024-12-29 21:14:28,915 - INFO - terminate chrome process...
+2024-12-29 21:14:28,954 - INFO - terminate chrome process...
+2024-12-29 21:14:29,032 - INFO - terminate chrome process...
+2024-12-29 21:14:29,118 - INFO - terminate chrome process...
+2024-12-29 21:14:29,209 - INFO - terminate chrome process...
+2024-12-29 21:14:29,295 - INFO - terminate chrome process...
+2024-12-29 21:14:29,377 - INFO - terminate chrome process...
+2024-12-29 21:14:29,473 - INFO - terminate chrome process...
+2024-12-29 21:14:29,548 - INFO - terminate chrome process...
+2024-12-29 21:14:29,646 - INFO - terminate chrome process...
+2024-12-29 21:14:29,725 - INFO - terminate chrome process...
+2024-12-29 21:14:29,801 - INFO - terminate chrome process...
+2024-12-29 21:14:29,887 - INFO - terminate chrome process...
+2024-12-29 21:14:29,970 - INFO - terminate chrome process...
+2024-12-29 21:14:30,050 - INFO - terminate chrome process...
+2024-12-29 21:14:30,145 - INFO - terminate chrome process...
+2024-12-29 21:14:30,288 - INFO - terminate chrome process...
+2024-12-29 21:14:30,653 - INFO - terminate chrome process...
+2024-12-29 21:14:30,768 - INFO - terminate chrome process...
+2024-12-29 21:14:30,938 - INFO - terminate chrome process...
+2024-12-29 21:14:31,055 - INFO - terminate chrome process...
+2024-12-29 21:14:31,132 - INFO - terminate chrome process...
+2024-12-29 21:14:31,215 - INFO - terminate chrome process...
+2024-12-29 21:14:31,349 - INFO - terminate chrome process...
+2024-12-29 21:14:31,428 - INFO - terminate chrome process...
+2024-12-29 21:14:31,506 - INFO - terminate chrome process...
+2024-12-29 21:14:31,584 - INFO - terminate chrome process...
+2024-12-29 21:14:31,715 - INFO - terminate chrome process...
+2024-12-29 21:14:31,802 - INFO - terminate chrome process...
+2024-12-29 21:14:31,876 - INFO - terminate chrome process...
+2024-12-29 21:14:31,963 - INFO - terminate chrome process...
+2024-12-29 21:14:32,044 - INFO - terminate chrome process...
+2024-12-29 21:14:32,148 - INFO - terminate chrome process...
+2024-12-29 21:14:32,232 - INFO - terminate chrome process...
+2024-12-29 21:14:32,314 - INFO - terminate chrome process...
+2024-12-29 21:14:32,392 - INFO - terminate chrome process...
+2024-12-29 21:14:32,469 - INFO - terminate chrome process...
+2024-12-29 21:14:32,549 - INFO - terminate chrome process...
+2024-12-29 21:14:32,634 - INFO - terminate chrome process...
+2024-12-29 21:14:32,740 - INFO - terminate chrome process...
+2024-12-29 21:33:24,595 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 21:33:26,875 - INFO - Browser listening on: ws://127.0.0.1:56513/devtools/browser/909356d7-e608-4d45-96b4-fbaf14b5c9d4
+2024-12-29 21:33:34,584 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news
+2024-12-29 21:33:34,664 - INFO - Scraped https://www.bbc.com/news.
+2024-12-29 21:33:34,671 - INFO - Articles Found
+2024-12-29 21:33:34,705 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 21:33:39,509 - INFO - Browser listening on: ws://127.0.0.1:56553/devtools/browser/075630a6-af18-4170-aad4-a4174dd6075a
+2024-12-29 21:33:46,555 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 21:33:46,595 - INFO - Scraped https://www.bbc.com/news/articles/c4g29e1lejvo.
+2024-12-29 21:33:46,626 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cjdnkdg1l8do
+2024-12-29 21:33:48,739 - INFO - Browser listening on: ws://127.0.0.1:56584/devtools/browser/d1e9986b-b069-44e6-b184-f21d25e72fcb
+2024-12-29 21:33:53,990 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cjdnkdg1l8do
+2024-12-29 21:33:54,040 - INFO - Scraped https://www.bbc.com/news/articles/cjdnkdg1l8do.
+2024-12-29 21:33:54,053 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:33:56,101 - INFO - Browser listening on: ws://127.0.0.1:56613/devtools/browser/744a858a-bc45-4201-be65-57ff9eab40d5
+2024-12-29 21:34:04,140 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:34:04,189 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 21:34:04,212 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:34:11,144 - INFO - Browser listening on: ws://127.0.0.1:56656/devtools/browser/fdde893e-0931-4e04-9613-8c81627776ad
+2024-12-29 21:34:20,324 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:34:20,371 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 21:34:20,398 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:34:22,509 - INFO - Browser listening on: ws://127.0.0.1:56687/devtools/browser/2aa09b54-a8ef-4a53-9a35-dfaf5f9afb45
+2024-12-29 21:34:30,150 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:34:30,189 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 21:34:30,202 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:34:32,643 - INFO - Browser listening on: ws://127.0.0.1:56717/devtools/browser/8e1de42a-79b8-4ebc-9a16-a00575bc3b3c
+2024-12-29 21:34:40,302 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:34:40,352 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 21:34:40,366 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 21:34:42,320 - INFO - Browser listening on: ws://127.0.0.1:56761/devtools/browser/5998b92f-320a-47ec-92f5-c3211b0747be
+2024-12-29 21:34:47,097 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 21:34:47,140 - INFO - Scraped https://www.bbc.com/news/articles/c4g29e1lejvo.
+2024-12-29 21:34:47,152 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:34:49,642 - INFO - Browser listening on: ws://127.0.0.1:56795/devtools/browser/2c5737f7-8bcc-4d3c-bb0c-c583e2a13e7f
+2024-12-29 21:35:00,874 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:35:00,932 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 21:35:00,945 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 21:35:03,169 - INFO - Browser listening on: ws://127.0.0.1:56843/devtools/browser/4d64d4ff-201a-4a60-bf71-2a26537086fa
+2024-12-29 21:35:11,397 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 21:35:11,437 - INFO - Scraped https://www.bbc.com/news/articles/cly722nj2z6o.
+2024-12-29 21:35:11,458 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 21:35:13,415 - INFO - Browser listening on: ws://127.0.0.1:56876/devtools/browser/31d913f6-439d-4fc0-be40-bcb6a4f3f7e1
+2024-12-29 21:35:19,662 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 21:35:19,706 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2z2npwvo.
+2024-12-29 21:35:19,718 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:35:22,219 - INFO - Browser listening on: ws://127.0.0.1:56916/devtools/browser/e4983f40-d121-4692-bd4a-6160bc9bdba7
+2024-12-29 21:35:28,333 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:35:28,382 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 21:35:28,395 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 21:35:31,404 - INFO - Browser listening on: ws://127.0.0.1:56953/devtools/browser/62adc374-9c3c-46f6-98df-71ca0cbf13be
+2024-12-29 21:35:39,021 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 21:35:39,100 - INFO - Scraped https://www.bbc.com/news/articles/clyv7gxp02yo.
+2024-12-29 21:35:39,117 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:35:41,381 - INFO - Browser listening on: ws://127.0.0.1:56996/devtools/browser/4ee25f40-7489-4d0b-8654-a9af70438156
+2024-12-29 21:36:03,109 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:36:03,202 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 21:36:03,222 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:36:05,405 - INFO - Browser listening on: ws://127.0.0.1:57053/devtools/browser/40e9df80-0816-4ba0-b711-a44f3bf417dd
+2024-12-29 21:36:11,027 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:36:11,073 - INFO - Scraped https://www.bbc.com/news/articles/cy531yl2ld7o.
+2024-12-29 21:36:11,086 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3dxz1vzdyzo
+2024-12-29 21:36:13,260 - INFO - Browser listening on: ws://127.0.0.1:57081/devtools/browser/df6139c3-7742-405a-bb4b-5c06844e2c5e
+2024-12-29 21:36:20,616 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3dxz1vzdyzo
+2024-12-29 21:36:20,665 - INFO - Scraped https://www.bbc.com/news/articles/c3dxz1vzdyzo.
+2024-12-29 21:36:20,687 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 21:36:25,889 - INFO - Browser listening on: ws://127.0.0.1:57147/devtools/browser/74e77f71-0c88-4c69-9563-38ed68a82265
+2024-12-29 21:36:36,941 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 21:36:36,992 - INFO - Scraped https://www.bbc.com/news/articles/ckg8dg3ke40o.
+2024-12-29 21:36:37,003 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:36:39,081 - INFO - Browser listening on: ws://127.0.0.1:57239/devtools/browser/1cbea89b-1e15-48c0-a25c-979ae2a6ecf3
+2024-12-29 21:36:46,143 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:36:46,191 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 21:36:46,203 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:36:48,219 - INFO - Browser listening on: ws://127.0.0.1:57278/devtools/browser/87217826-354d-4a2c-8732-255e5396a797
+2024-12-29 21:36:53,109 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy531yl2ld7o
+2024-12-29 21:36:53,156 - INFO - Scraped https://www.bbc.com/news/articles/cy531yl2ld7o.
+2024-12-29 21:36:53,167 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:36:55,259 - INFO - Browser listening on: ws://127.0.0.1:57307/devtools/browser/b19a44bc-02d0-4f98-a3b1-5806ca1718b2
+2024-12-29 21:37:00,035 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 21:37:00,084 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 21:37:00,096 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 21:37:02,133 - INFO - Browser listening on: ws://127.0.0.1:57337/devtools/browser/153b66c0-ff33-4d31-bfd4-17eac4b13c80
+2024-12-29 21:37:07,153 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 21:37:07,202 - INFO - Scraped https://www.bbc.com/news/articles/cvgxz76m1g8o.
+2024-12-29 21:37:07,218 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:37:09,546 - INFO - Browser listening on: ws://127.0.0.1:57365/devtools/browser/781edf9a-1315-43b3-87d0-6fc0b1b36f94
+2024-12-29 21:37:18,420 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:37:18,464 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 21:37:18,478 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 21:37:20,452 - INFO - Browser listening on: ws://127.0.0.1:57408/devtools/browser/6a04ed3f-bb58-42e9-8860-29697b9e193a
+2024-12-29 21:37:28,307 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 21:37:28,348 - INFO - Scraped https://www.bbc.com/news/articles/cx26v70n5z4o.
+2024-12-29 21:37:28,374 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 21:37:30,253 - INFO - Browser listening on: ws://127.0.0.1:57447/devtools/browser/cfff9522-4432-4fbd-bb71-bc2fe7a3489a
+2024-12-29 21:37:36,822 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 21:37:36,857 - INFO - Scraped https://www.bbc.com/news/articles/c623lerlr19o.
+2024-12-29 21:37:36,867 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c98lkrdkz70o
+2024-12-29 21:37:41,132 - INFO - Browser listening on: ws://127.0.0.1:57482/devtools/browser/4e319f09-6517-492c-847c-05d7de15eea6
+2024-12-29 21:37:51,978 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c98lkrdkz70o
+2024-12-29 21:37:52,020 - INFO - Scraped https://www.bbc.com/news/articles/c98lkrdkz70o.
+2024-12-29 21:37:52,032 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:38:01,365 - INFO - Browser listening on: ws://127.0.0.1:57545/devtools/browser/d8c43128-faaf-4bc9-b7fa-94f50900740b
+2024-12-29 21:38:08,876 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:38:08,918 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 21:38:08,929 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 21:38:13,271 - INFO - Browser listening on: ws://127.0.0.1:57598/devtools/browser/ffce902f-de44-4dec-b14a-a19270458c79
+2024-12-29 21:38:19,278 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 21:38:19,320 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 21:38:19,331 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 21:38:26,429 - INFO - Browser listening on: ws://127.0.0.1:57664/devtools/browser/d1f82b83-b87e-4c82-b67a-f5354ac568ff
+2024-12-29 21:38:39,485 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 21:38:39,529 - INFO - Scraped https://www.bbc.com/news/articles/cx26v70n5z4o.
+2024-12-29 21:38:39,562 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:38:44,485 - INFO - Browser listening on: ws://127.0.0.1:57749/devtools/browser/c951c0e9-998b-4cd5-ab5f-54fc6533311e
+2024-12-29 21:38:53,521 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:38:53,563 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 21:38:53,590 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 21:38:56,555 - INFO - Browser listening on: ws://127.0.0.1:57836/devtools/browser/e9332067-ddf2-4795-b40e-764e703df236
+2024-12-29 21:39:20,937 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 21:39:20,986 - INFO - Scraped https://www.bbc.com/news/articles/c3we2p3l36jo.
+2024-12-29 21:39:21,025 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:39:25,675 - INFO - Browser listening on: ws://127.0.0.1:57934/devtools/browser/3378f0dd-cadc-4ae9-a2ee-47ff1bb13a41
+2024-12-29 21:39:52,972 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:39:53,028 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 21:39:53,042 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:40:09,476 - INFO - Browser listening on: ws://127.0.0.1:58126/devtools/browser/51dfb5bf-ec0a-4054-bb14-ceb4c544f9c9
+2024-12-29 21:40:20,075 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:40:20,121 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 21:40:20,141 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:40:24,379 - INFO - Browser listening on: ws://127.0.0.1:58175/devtools/browser/ed9c9926-1116-4c5d-95e5-068b69903430
+2024-12-29 21:40:32,512 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:40:32,555 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 21:40:32,568 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 21:40:35,504 - INFO - Browser listening on: ws://127.0.0.1:58232/devtools/browser/657d4d1f-24dc-4538-a700-7e32c84ed66d
+2024-12-29 21:40:47,006 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 21:40:47,047 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 21:40:47,058 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:40:50,038 - INFO - Browser listening on: ws://127.0.0.1:58319/devtools/browser/2444e900-8b8b-4f19-bbc4-813702b73c90
+2024-12-29 21:40:56,468 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:40:56,503 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 21:40:56,514 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:40:58,432 - INFO - Browser listening on: ws://127.0.0.1:58374/devtools/browser/6893e522-3df1-4965-a1fa-74efae84a0e8
+2024-12-29 21:41:02,297 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 21:41:02,338 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 21:41:02,349 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:41:04,342 - INFO - Browser listening on: ws://127.0.0.1:58402/devtools/browser/15225731-fe82-4ef2-ad63-1decf381398e
+2024-12-29 21:41:11,000 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:41:11,078 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 21:41:11,095 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:41:15,026 - INFO - Browser listening on: ws://127.0.0.1:58451/devtools/browser/53f54e29-4d36-42b9-95c0-2bc009511d48
+2024-12-29 21:41:21,260 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:41:21,303 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 21:41:21,314 - INFO - Sending request to URL: https://www.bbc.com/news/sport/articles/cvg981xwdw4o
+2024-12-29 21:41:24,075 - INFO - Browser listening on: ws://127.0.0.1:58525/devtools/browser/ff80f811-ddf6-490f-b4f9-d84dc0d29107
+2024-12-29 21:41:31,032 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:41:31,032 - INFO - Retrying with modified URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 21:41:36,802 - INFO - Browser listening on: ws://127.0.0.1:58547/devtools/browser/8816101a-5c50-48ed-a795-fdf585d49dc2
+2024-12-29 21:41:47,700 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 21:41:47,780 - INFO - Scraped https://www.bbc.com/sport/articles/cvg981xwdw4o.
+2024-12-29 21:41:47,780 - INFO - Scraped https://www.bbc.com/news/sport/articles/cvg981xwdw4o.
+2024-12-29 21:41:47,834 - INFO - Sending request to URL: https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 21:41:53,187 - INFO - Browser listening on: ws://127.0.0.1:58620/devtools/browser/23c31a92-7bc9-44f1-92e7-98b4a7ca1551
+2024-12-29 21:41:56,308 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:41:56,308 - INFO - Retrying with modified URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 21:41:59,962 - INFO - Browser listening on: ws://127.0.0.1:58639/devtools/browser/3775204f-16e4-4b3a-9d4d-b727a5bf1465
+2024-12-29 21:42:24,235 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 21:42:24,295 - INFO - Scraped https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo.
+2024-12-29 21:42:24,295 - INFO - Scraped https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo.
+2024-12-29 21:42:24,365 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:42:28,129 - INFO - Browser listening on: ws://127.0.0.1:58745/devtools/browser/2d3e79dd-d760-426e-970e-137a5d831e12
+2024-12-29 21:42:32,370 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:42:32,370 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:42:36,249 - INFO - Browser listening on: ws://127.0.0.1:58780/devtools/browser/1da1ba6b-d8d6-44db-9986-4158692e6d4f
+2024-12-29 21:43:03,620 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 21:43:03,684 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 21:43:03,685 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 21:43:03,743 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 21:43:07,909 - INFO - Browser listening on: ws://127.0.0.1:58916/devtools/browser/2a690ade-759b-471e-904b-36b0269ef301
+2024-12-29 21:43:12,831 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 21:43:12,832 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 21:43:15,939 - INFO - Browser listening on: ws://127.0.0.1:58990/devtools/browser/514054b7-a237-4d84-9705-33a9d6f9ca31
+2024-12-29 21:43:22,137 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 21:43:22,196 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 21:43:22,196 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 21:43:27,455 - INFO - Data exported successfully to SQLite.
+2024-12-29 21:43:27,456 - INFO - terminate chrome process...
+2024-12-29 21:43:27,643 - INFO - terminate chrome process...
+2024-12-29 21:43:27,706 - INFO - terminate chrome process...
+2024-12-29 21:43:28,205 - INFO - terminate chrome process...
+2024-12-29 21:43:28,308 - INFO - terminate chrome process...
+2024-12-29 21:43:28,582 - INFO - terminate chrome process...
+2024-12-29 21:43:28,666 - INFO - terminate chrome process...
+2024-12-29 21:43:28,923 - INFO - terminate chrome process...
+2024-12-29 21:43:28,990 - INFO - terminate chrome process...
+2024-12-29 21:43:29,404 - INFO - terminate chrome process...
+2024-12-29 21:43:29,561 - INFO - terminate chrome process...
+2024-12-29 21:43:29,797 - INFO - terminate chrome process...
+2024-12-29 21:43:30,051 - INFO - terminate chrome process...
+2024-12-29 21:43:30,257 - INFO - terminate chrome process...
+2024-12-29 21:43:30,458 - INFO - terminate chrome process...
+2024-12-29 21:43:30,631 - INFO - terminate chrome process...
+2024-12-29 21:43:31,891 - INFO - terminate chrome process...
+2024-12-29 21:43:32,900 - INFO - terminate chrome process...
+2024-12-29 21:43:34,563 - INFO - terminate chrome process...
+2024-12-29 21:43:34,843 - INFO - terminate chrome process...
+2024-12-29 21:43:34,953 - INFO - terminate chrome process...
+2024-12-29 21:43:35,190 - INFO - terminate chrome process...
+2024-12-29 21:43:35,361 - INFO - terminate chrome process...
+2024-12-29 21:43:35,656 - INFO - terminate chrome process...
+2024-12-29 21:43:36,337 - INFO - terminate chrome process...
+2024-12-29 21:43:36,595 - INFO - terminate chrome process...
+2024-12-29 21:43:36,785 - INFO - terminate chrome process...
+2024-12-29 21:43:37,022 - INFO - terminate chrome process...
+2024-12-29 21:43:37,508 - INFO - terminate chrome process...
+2024-12-29 21:43:37,741 - INFO - terminate chrome process...
+2024-12-29 21:43:37,919 - INFO - terminate chrome process...
+2024-12-29 21:43:38,177 - INFO - terminate chrome process...
+2024-12-29 21:43:38,407 - INFO - terminate chrome process...
+2024-12-29 21:43:38,517 - INFO - terminate chrome process...
+2024-12-29 21:43:38,633 - INFO - terminate chrome process...
+2024-12-29 21:43:38,825 - INFO - terminate chrome process...
+2024-12-29 21:43:39,254 - INFO - terminate chrome process...
+2024-12-29 21:43:39,393 - INFO - terminate chrome process...
+2024-12-29 21:43:39,468 - INFO - terminate chrome process...
+2024-12-29 21:43:39,640 - INFO - terminate chrome process...
+2024-12-29 21:43:39,847 - INFO - terminate chrome process...
+2024-12-29 21:43:39,994 - INFO - terminate chrome process...
+2024-12-29 21:43:40,183 - INFO - terminate chrome process...
+2024-12-29 21:43:40,485 - INFO - terminate chrome process...
+2024-12-29 21:43:40,825 - INFO - terminate chrome process...
+2024-12-29 21:43:41,392 - INFO - terminate chrome process...
+2024-12-29 21:57:33,210 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 21:57:36,423 - INFO - Browser listening on: ws://127.0.0.1:59670/devtools/browser/ecdc5c89-814d-45f9-a985-16f5c612e31f
+2024-12-29 21:57:44,152 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news
+2024-12-29 21:57:44,222 - INFO - Scraped https://www.bbc.com/news.
+2024-12-29 21:57:44,226 - INFO - Articles Found
+2024-12-29 21:57:44,235 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:57:45,991 - INFO - Browser listening on: ws://127.0.0.1:59721/devtools/browser/96cd1d56-8157-4d2f-9319-18e8654bd7d4
+2024-12-29 21:57:50,389 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:57:50,430 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 21:57:50,441 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 21:57:52,357 - INFO - Browser listening on: ws://127.0.0.1:59752/devtools/browser/9960226d-e707-4366-8846-0e0c1c27e972
+2024-12-29 21:57:56,344 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 21:57:56,383 - INFO - Scraped https://www.bbc.com/news/articles/c4g29e1lejvo.
+2024-12-29 21:57:56,394 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:57:58,298 - INFO - Browser listening on: ws://127.0.0.1:59780/devtools/browser/4eb84ffa-a821-4fb7-b007-d844ed59f17a
+2024-12-29 21:58:02,562 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 21:58:02,604 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 21:58:02,624 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:58:04,513 - INFO - Browser listening on: ws://127.0.0.1:59807/devtools/browser/3852e5c1-8ad5-479b-8f51-b90b6a062729
+2024-12-29 21:58:09,174 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 21:58:09,217 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 21:58:09,243 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cjdnkdg1l8do
+2024-12-29 21:58:11,127 - INFO - Browser listening on: ws://127.0.0.1:59840/devtools/browser/e645f3ab-db95-44b1-9d90-fe983a80667a
+2024-12-29 21:58:15,641 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cjdnkdg1l8do
+2024-12-29 21:58:15,686 - INFO - Scraped https://www.bbc.com/news/articles/cjdnkdg1l8do.
+2024-12-29 21:58:15,697 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:58:17,559 - INFO - Browser listening on: ws://127.0.0.1:59881/devtools/browser/965916e4-1cc8-4bde-b453-d97b4c7aad68
+2024-12-29 21:58:23,671 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 21:58:23,703 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 21:58:23,726 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:58:25,665 - INFO - Browser listening on: ws://127.0.0.1:59914/devtools/browser/2558b087-60aa-492d-8550-342712bb8cd3
+2024-12-29 21:58:34,199 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 21:58:34,241 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 21:58:34,252 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:58:36,090 - INFO - Browser listening on: ws://127.0.0.1:59951/devtools/browser/2efe0123-1708-41cc-88b7-bcee3c598be1
+2024-12-29 21:58:42,027 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 21:58:42,075 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 21:58:42,111 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 21:58:44,095 - INFO - Browser listening on: ws://127.0.0.1:59979/devtools/browser/1151e934-450d-49ee-876a-571e7a35e703
+2024-12-29 21:58:59,242 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 21:58:59,280 - INFO - Scraped https://www.bbc.com/news/articles/cly722nj2z6o.
+2024-12-29 21:58:59,303 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 21:59:02,510 - INFO - Browser listening on: ws://127.0.0.1:60033/devtools/browser/c5f83b8d-0172-4f79-b0ed-0e77e7ceba01
+2024-12-29 21:59:09,709 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 21:59:09,749 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2z2npwvo.
+2024-12-29 21:59:09,782 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:59:12,977 - INFO - Browser listening on: ws://127.0.0.1:60066/devtools/browser/92e1d846-d2bc-4e3c-943c-8a124420091f
+2024-12-29 21:59:20,891 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 21:59:20,946 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 21:59:20,959 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 21:59:23,088 - INFO - Browser listening on: ws://127.0.0.1:60112/devtools/browser/1431e517-ddaa-470f-9680-5171a7045609
+2024-12-29 21:59:32,096 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 21:59:32,161 - INFO - Scraped https://www.bbc.com/news/articles/clyv7gxp02yo.
+2024-12-29 21:59:32,175 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:59:34,377 - INFO - Browser listening on: ws://127.0.0.1:60151/devtools/browser/f272971c-11fe-4b6c-9863-e4d523ee838a
+2024-12-29 21:59:42,499 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 21:59:42,587 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 21:59:42,608 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 21:59:44,692 - INFO - Browser listening on: ws://127.0.0.1:60181/devtools/browser/fa97a7cd-9d1c-41bc-b857-e6805664fd9e
+2024-12-29 22:00:04,178 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:00:04,228 - INFO - Scraped https://www.bbc.com/news/articles/cz6jynn5w9no.
+2024-12-29 22:00:04,252 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:00:06,198 - INFO - Browser listening on: ws://127.0.0.1:60219/devtools/browser/7ace597c-35e5-4c57-95eb-95ccb47c5b6c
+2024-12-29 22:00:11,357 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:00:11,401 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 22:00:11,433 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy895l25gwxo
+2024-12-29 22:00:21,725 - INFO - Browser listening on: ws://127.0.0.1:60262/devtools/browser/de0c992b-7efb-4ce5-8ddd-b190dfdfeea9
+2024-12-29 22:00:29,305 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy895l25gwxo
+2024-12-29 22:00:29,351 - INFO - Scraped https://www.bbc.com/news/articles/cy895l25gwxo.
+2024-12-29 22:00:29,362 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:00:31,950 - INFO - Browser listening on: ws://127.0.0.1:60310/devtools/browser/6d8b5b96-8908-4cd3-ac55-890d7e9716a0
+2024-12-29 22:00:38,515 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:00:38,558 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 22:00:38,570 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:00:40,439 - INFO - Browser listening on: ws://127.0.0.1:60342/devtools/browser/45b8d066-21cc-4aa3-895c-ce137cb46634
+2024-12-29 22:00:49,380 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:00:49,428 - INFO - Scraped https://www.bbc.com/news/articles/cz6jynn5w9no.
+2024-12-29 22:00:49,449 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 22:00:56,428 - INFO - Browser listening on: ws://127.0.0.1:60372/devtools/browser/80dd3243-81b7-4017-b748-6d8c4bd351c6
+2024-12-29 22:01:04,658 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 22:01:04,704 - INFO - Scraped https://www.bbc.com/news/articles/cx2n35j5340o.
+2024-12-29 22:01:04,725 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 22:01:06,696 - INFO - Browser listening on: ws://127.0.0.1:60406/devtools/browser/8a95665a-4580-4f66-b275-d26e87f58ae4
+2024-12-29 22:01:12,175 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 22:01:12,224 - INFO - Scraped https://www.bbc.com/news/articles/ckg8dg3ke40o.
+2024-12-29 22:01:12,238 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:01:14,044 - INFO - Browser listening on: ws://127.0.0.1:60436/devtools/browser/3cd93ec1-9999-4757-8ec7-6e8021276d0e
+2024-12-29 22:01:20,770 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:01:20,817 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 22:01:20,829 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:01:22,733 - INFO - Browser listening on: ws://127.0.0.1:60476/devtools/browser/591837ab-8b81-48fe-ab40-dbf6e8d8f071
+2024-12-29 22:01:32,416 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:01:32,455 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 22:01:32,467 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:01:34,363 - INFO - Browser listening on: ws://127.0.0.1:60527/devtools/browser/532c18fe-3c39-4987-b8c6-e3fb3203bf0f
+2024-12-29 22:01:39,038 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:01:39,081 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 22:01:39,092 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 22:01:40,912 - INFO - Browser listening on: ws://127.0.0.1:60557/devtools/browser/240ee1b1-283d-4cc9-bb52-7433ab29d4b4
+2024-12-29 22:01:45,632 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 22:01:45,671 - INFO - Scraped https://www.bbc.com/news/articles/cx26v70n5z4o.
+2024-12-29 22:01:45,697 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 22:01:47,663 - INFO - Browser listening on: ws://127.0.0.1:60584/devtools/browser/e05994b3-8c66-41b3-8276-44f08053d83d
+2024-12-29 22:01:51,956 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 22:01:51,991 - INFO - Scraped https://www.bbc.com/news/articles/c623lerlr19o.
+2024-12-29 22:01:52,001 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:01:53,837 - INFO - Browser listening on: ws://127.0.0.1:60610/devtools/browser/9da2667d-e265-46cb-ba93-fa60d4bc8de0
+2024-12-29 22:01:59,949 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:01:59,992 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 22:02:00,003 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clygpjgpk4do
+2024-12-29 22:02:01,932 - INFO - Browser listening on: ws://127.0.0.1:60644/devtools/browser/fff23318-f574-4d56-b6cc-8730d5d10b64
+2024-12-29 22:02:06,834 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clygpjgpk4do
+2024-12-29 22:02:06,870 - INFO - Scraped https://www.bbc.com/news/articles/clygpjgpk4do.
+2024-12-29 22:02:06,899 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 22:02:08,735 - INFO - Browser listening on: ws://127.0.0.1:60681/devtools/browser/2569556d-544b-47e6-97c8-5c4630e1db5b
+2024-12-29 22:02:14,500 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 22:02:14,541 - INFO - Scraped https://www.bbc.com/news/articles/cvgxz76m1g8o.
+2024-12-29 22:02:14,552 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 22:02:16,546 - INFO - Browser listening on: ws://127.0.0.1:60712/devtools/browser/c5866b88-645d-4efe-9df8-312a3f9ccb51
+2024-12-29 22:02:23,144 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 22:02:23,189 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 22:02:23,215 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 22:02:27,136 - INFO - Browser listening on: ws://127.0.0.1:60745/devtools/browser/a1e69721-d697-4d62-80bc-43d5bafa89b9
+2024-12-29 22:02:34,757 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 22:02:34,798 - INFO - Scraped https://www.bbc.com/news/articles/c3we2p3l36jo.
+2024-12-29 22:02:34,810 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cgm9e97myrvo
+2024-12-29 22:02:37,376 - INFO - Browser listening on: ws://127.0.0.1:60778/devtools/browser/303ae555-4894-4c00-8ab2-451f3e97395a
+2024-12-29 22:02:44,284 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cgm9e97myrvo
+2024-12-29 22:02:44,323 - INFO - Scraped https://www.bbc.com/news/articles/cgm9e97myrvo.
+2024-12-29 22:02:44,335 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 22:02:46,211 - INFO - Browser listening on: ws://127.0.0.1:60814/devtools/browser/0d47e8b5-45ad-4d3f-8083-e0a0fdcb15be
+2024-12-29 22:02:50,787 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 22:02:50,838 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 22:02:50,850 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 22:02:52,775 - INFO - Browser listening on: ws://127.0.0.1:60846/devtools/browser/97e65f4b-6581-43eb-ac35-ed841f908200
+2024-12-29 22:02:57,363 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 22:02:57,404 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 22:02:57,416 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 22:03:02,439 - INFO - Browser listening on: ws://127.0.0.1:60882/devtools/browser/dfec6e85-9766-46bf-9230-a21605d96938
+2024-12-29 22:03:12,545 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 22:03:12,629 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 22:03:12,648 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 22:03:14,601 - INFO - Browser listening on: ws://127.0.0.1:60924/devtools/browser/7052e62e-c8e0-4cf7-97c5-7b195ceded36
+2024-12-29 22:03:21,680 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 22:03:21,721 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 22:03:21,753 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:03:23,727 - INFO - Browser listening on: ws://127.0.0.1:60951/devtools/browser/7d03734b-466e-4944-b04a-d3afea206c4e
+2024-12-29 22:03:29,124 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:03:29,164 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 22:03:29,176 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 22:03:31,042 - INFO - Browser listening on: ws://127.0.0.1:60980/devtools/browser/16b9e96f-36ff-4e55-a81d-bbe30137207c
+2024-12-29 22:03:36,110 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 22:03:36,145 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 22:03:36,170 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:03:37,995 - INFO - Browser listening on: ws://127.0.0.1:61008/devtools/browser/799be055-299b-42c4-88c6-f4ea52732762
+2024-12-29 22:03:42,506 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:03:42,547 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 22:03:42,560 - INFO - Sending request to URL: https://www.bbc.com/news/sport/articles/cvg981xwdw4o
+2024-12-29 22:03:44,265 - INFO - Browser listening on: ws://127.0.0.1:61038/devtools/browser/ba3ba6b2-60e1-4b57-a26a-d1f39a0b9d35
+2024-12-29 22:03:46,910 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:03:46,910 - INFO - Retrying with modified URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 22:03:48,997 - INFO - Browser listening on: ws://127.0.0.1:61047/devtools/browser/f551a3ad-080c-4735-b778-bdf4edec8caa
+2024-12-29 22:03:56,582 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/articles/cvg981xwdw4o
+2024-12-29 22:03:56,656 - INFO - Scraped https://www.bbc.com/sport/articles/cvg981xwdw4o.
+2024-12-29 22:03:56,656 - INFO - Scraped https://www.bbc.com/news/sport/articles/cvg981xwdw4o.
+2024-12-29 22:03:56,708 - INFO - Sending request to URL: https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 22:03:58,584 - INFO - Browser listening on: ws://127.0.0.1:61077/devtools/browser/ad2bc99c-31bb-4f43-b308-684648875f69
+2024-12-29 22:04:01,668 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:04:01,669 - INFO - Retrying with modified URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 22:04:03,653 - INFO - Browser listening on: ws://127.0.0.1:61092/devtools/browser/7caa7b4f-87b5-44bd-a74b-2888b534474b
+2024-12-29 22:04:12,082 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo
+2024-12-29 22:04:12,135 - INFO - Scraped https://www.bbc.com/sport/american-football/articles/cvgrz4pldpvo.
+2024-12-29 22:04:12,135 - INFO - Scraped https://www.bbc.com/news/sport/american-football/articles/cvgrz4pldpvo.
+2024-12-29 22:04:12,175 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 22:04:14,001 - INFO - Browser listening on: ws://127.0.0.1:61129/devtools/browser/f35340c4-c560-4623-9531-43b297b04db9
+2024-12-29 22:04:17,927 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:04:17,928 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 22:04:20,720 - INFO - Browser listening on: ws://127.0.0.1:61138/devtools/browser/db0ec686-ffcf-4c94-adef-59bcc0d0054f
+2024-12-29 22:04:28,596 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 22:04:28,653 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 22:04:28,653 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 22:04:28,693 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:04:30,479 - INFO - Browser listening on: ws://127.0.0.1:61159/devtools/browser/8c1f1089-fe96-4e40-9a69-8c6fc12a720b
+2024-12-29 22:04:33,591 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:04:33,591 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:04:35,683 - INFO - Browser listening on: ws://127.0.0.1:61167/devtools/browser/2d1b4d50-63ce-4f30-87da-7c4450f6d9a2
+2024-12-29 22:04:39,661 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:04:39,716 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 22:04:39,717 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 22:04:45,035 - INFO - Data exported successfully to SQLite.
+2024-12-29 22:04:45,036 - INFO - terminate chrome process...
+2024-12-29 22:04:45,080 - INFO - terminate chrome process...
+2024-12-29 22:04:45,127 - INFO - terminate chrome process...
+2024-12-29 22:04:45,211 - INFO - terminate chrome process...
+2024-12-29 22:04:45,278 - INFO - terminate chrome process...
+2024-12-29 22:04:45,367 - INFO - terminate chrome process...
+2024-12-29 22:04:45,408 - INFO - terminate chrome process...
+2024-12-29 22:04:45,534 - INFO - terminate chrome process...
+2024-12-29 22:04:45,598 - INFO - terminate chrome process...
+2024-12-29 22:04:45,701 - INFO - terminate chrome process...
+2024-12-29 22:04:45,799 - INFO - terminate chrome process...
+2024-12-29 22:04:45,901 - INFO - terminate chrome process...
+2024-12-29 22:04:46,007 - INFO - terminate chrome process...
+2024-12-29 22:04:46,117 - INFO - terminate chrome process...
+2024-12-29 22:04:46,217 - INFO - terminate chrome process...
+2024-12-29 22:04:46,306 - INFO - terminate chrome process...
+2024-12-29 22:04:46,394 - INFO - terminate chrome process...
+2024-12-29 22:04:46,485 - INFO - terminate chrome process...
+2024-12-29 22:04:46,572 - INFO - terminate chrome process...
+2024-12-29 22:04:46,697 - INFO - terminate chrome process...
+2024-12-29 22:04:46,795 - INFO - terminate chrome process...
+2024-12-29 22:04:46,890 - INFO - terminate chrome process...
+2024-12-29 22:04:46,988 - INFO - terminate chrome process...
+2024-12-29 22:04:47,074 - INFO - terminate chrome process...
+2024-12-29 22:04:47,167 - INFO - terminate chrome process...
+2024-12-29 22:04:47,292 - INFO - terminate chrome process...
+2024-12-29 22:04:47,380 - INFO - terminate chrome process...
+2024-12-29 22:04:47,471 - INFO - terminate chrome process...
+2024-12-29 22:04:47,568 - INFO - terminate chrome process...
+2024-12-29 22:04:47,656 - INFO - terminate chrome process...
+2024-12-29 22:04:47,769 - INFO - terminate chrome process...
+2024-12-29 22:04:47,856 - INFO - terminate chrome process...
+2024-12-29 22:04:47,946 - INFO - terminate chrome process...
+2024-12-29 22:04:48,038 - INFO - terminate chrome process...
+2024-12-29 22:04:48,138 - INFO - terminate chrome process...
+2024-12-29 22:04:48,271 - INFO - terminate chrome process...
+2024-12-29 22:04:48,354 - INFO - terminate chrome process...
+2024-12-29 22:04:48,452 - INFO - terminate chrome process...
+2024-12-29 22:04:48,741 - INFO - terminate chrome process...
+2024-12-29 22:04:48,833 - INFO - terminate chrome process...
+2024-12-29 22:04:48,934 - INFO - terminate chrome process...
+2024-12-29 22:04:49,071 - INFO - terminate chrome process...
+2024-12-29 22:04:49,172 - INFO - terminate chrome process...
+2024-12-29 22:04:49,258 - INFO - terminate chrome process...
+2024-12-29 22:04:50,183 - INFO - terminate chrome process...
+2024-12-29 22:04:50,299 - INFO - terminate chrome process...
+2024-12-29 22:04:50,505 - INFO - terminate chrome process...
+2024-12-29 22:11:30,032 - INFO - Sending request to URL: https://www.bbc.com/news
+2024-12-29 22:11:52,346 - INFO - Browser listening on: ws://127.0.0.1:61537/devtools/browser/b038f4b4-2301-4577-a706-4bb2a6d1a565
+2024-12-29 22:12:12,615 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news
+2024-12-29 22:12:12,702 - INFO - Scraped https://www.bbc.com/news.
+2024-12-29 22:12:12,705 - INFO - Articles Found
+2024-12-29 22:12:12,715 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:12:14,873 - INFO - Browser listening on: ws://127.0.0.1:61622/devtools/browser/0a4fb051-09e6-4be3-a081-807e4fa48ca5
+2024-12-29 22:12:24,441 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:12:24,485 - INFO - Scraped https://www.bbc.com/news/articles/cdekxz2g630o.
+2024-12-29 22:12:24,497 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 22:12:27,120 - INFO - Browser listening on: ws://127.0.0.1:61663/devtools/browser/f9d4db7a-c98b-42d5-a7fb-560fe7e0ab48
+2024-12-29 22:12:40,805 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c4g29e1lejvo
+2024-12-29 22:12:40,849 - INFO - Scraped https://www.bbc.com/news/articles/c4g29e1lejvo.
+2024-12-29 22:12:40,980 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 22:12:44,334 - INFO - Browser listening on: ws://127.0.0.1:61702/devtools/browser/9509af5b-d6b9-43b4-83b5-e79c60a4de10
+2024-12-29 22:12:59,364 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 22:12:59,406 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 22:12:59,437 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 22:13:01,574 - INFO - Browser listening on: ws://127.0.0.1:61739/devtools/browser/0ed566dc-43c1-4e2b-b3c4-f4f32687b89a
+2024-12-29 22:13:27,412 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 22:13:27,454 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 22:13:27,479 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cjdnkdg1l8do
+2024-12-29 22:13:30,498 - INFO - Browser listening on: ws://127.0.0.1:61813/devtools/browser/4337ed19-02be-41e6-a400-b76d9f742110
+2024-12-29 22:13:38,388 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cjdnkdg1l8do
+2024-12-29 22:13:38,432 - INFO - Scraped https://www.bbc.com/news/articles/cjdnkdg1l8do.
+2024-12-29 22:13:38,443 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 22:13:41,055 - INFO - Browser listening on: ws://127.0.0.1:61844/devtools/browser/fb403a99-4225-4442-a463-0cf68d39d705
+2024-12-29 22:13:55,553 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 22:13:55,592 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 22:13:55,605 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:14:01,275 - INFO - Browser listening on: ws://127.0.0.1:61888/devtools/browser/82fc0f6d-c1b8-45d8-aabe-ff5d19bf5c09
+2024-12-29 22:14:13,274 - ERROR - Error processing URL https://www.bbc.com/news/articles/cdekxz2g630o: net::ERR_NAME_NOT_RESOLVED at https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:14:13,279 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 22:14:22,200 - INFO - Browser listening on: ws://127.0.0.1:61901/devtools/browser/9f9d11a8-70a4-45ce-bb87-4336d72cc382
+2024-12-29 22:14:42,644 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 22:14:42,694 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 22:14:42,706 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 22:14:45,143 - INFO - Browser listening on: ws://127.0.0.1:61952/devtools/browser/dd1982e7-e4ec-4a5d-93ef-61e2d824e498
+2024-12-29 22:14:52,517 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cly722nj2z6o
+2024-12-29 22:14:52,551 - INFO - Scraped https://www.bbc.com/news/articles/cly722nj2z6o.
+2024-12-29 22:14:52,574 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 22:14:54,490 - INFO - Browser listening on: ws://127.0.0.1:61974/devtools/browser/c8d6afb6-40e2-4f42-91b8-d406a55275d2
+2024-12-29 22:14:58,837 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2z2npwvo
+2024-12-29 22:14:58,876 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2z2npwvo.
+2024-12-29 22:14:58,888 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 22:15:00,741 - INFO - Browser listening on: ws://127.0.0.1:62003/devtools/browser/bd0aee81-77a2-4e09-8886-b38dce375ad8
+2024-12-29 22:15:06,716 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 22:15:06,757 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 22:15:06,769 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 22:15:08,737 - INFO - Browser listening on: ws://127.0.0.1:62041/devtools/browser/4cdd4d40-7888-4af9-96ef-adbe4acd957a
+2024-12-29 22:15:44,386 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clyv7gxp02yo
+2024-12-29 22:15:44,448 - INFO - Scraped https://www.bbc.com/news/articles/clyv7gxp02yo.
+2024-12-29 22:15:44,464 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 22:16:44,882 - INFO - Browser listening on: ws://127.0.0.1:62120/devtools/browser/c3d2d12b-0983-4760-8010-c949c5b07af3
+2024-12-29 22:17:24,364 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 22:17:24,456 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 22:17:24,482 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:17:27,843 - INFO - Browser listening on: ws://127.0.0.1:62194/devtools/browser/892bbc18-e3e6-470b-84c0-ada89f50f33b
+2024-12-29 22:17:36,177 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:17:36,220 - INFO - Scraped https://www.bbc.com/news/articles/cz6jynn5w9no.
+2024-12-29 22:17:36,256 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:17:38,181 - INFO - Browser listening on: ws://127.0.0.1:62243/devtools/browser/14793a8e-8e71-42f0-a4dc-34c72e69d622
+2024-12-29 22:17:42,847 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:17:42,896 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 22:17:42,909 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cy895l25gwxo
+2024-12-29 22:17:44,925 - INFO - Browser listening on: ws://127.0.0.1:62271/devtools/browser/bdf61d35-2fec-4eab-b859-42f0f9eb7d85
+2024-12-29 22:17:53,401 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cy895l25gwxo
+2024-12-29 22:17:53,449 - INFO - Scraped https://www.bbc.com/news/articles/cy895l25gwxo.
+2024-12-29 22:17:53,463 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:17:57,997 - INFO - Browser listening on: ws://127.0.0.1:62311/devtools/browser/a42f0bf0-c902-4c4a-813d-0145f8004ce9
+2024-12-29 22:18:37,313 - ERROR - Error processing URL https://www.bbc.com/news/articles/cdekxz2g630o: net::ERR_CONNECTION_RESET at https://www.bbc.com/news/articles/cdekxz2g630o
+2024-12-29 22:18:37,317 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:18:43,042 - INFO - Browser listening on: ws://127.0.0.1:62382/devtools/browser/4e152b04-e9f1-46b2-a163-7ed268ed3361
+2024-12-29 22:18:51,844 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cz6jynn5w9no
+2024-12-29 22:18:51,891 - INFO - Scraped https://www.bbc.com/news/articles/cz6jynn5w9no.
+2024-12-29 22:18:51,927 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 22:18:54,030 - INFO - Browser listening on: ws://127.0.0.1:62418/devtools/browser/48604ef1-8e43-4719-8aca-1f83113444e0
+2024-12-29 22:19:02,392 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2n35j5340o
+2024-12-29 22:19:02,446 - INFO - Scraped https://www.bbc.com/news/articles/cx2n35j5340o.
+2024-12-29 22:19:02,468 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 22:19:04,438 - INFO - Browser listening on: ws://127.0.0.1:62467/devtools/browser/7218e7ed-41d5-4d40-8678-87e8483f4921
+2024-12-29 22:19:24,425 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckg8dg3ke40o
+2024-12-29 22:19:24,480 - INFO - Scraped https://www.bbc.com/news/articles/ckg8dg3ke40o.
+2024-12-29 22:19:24,493 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:19:29,589 - INFO - Browser listening on: ws://127.0.0.1:62533/devtools/browser/e11ec963-7ed0-4f78-b7e0-4e58171e9873
+2024-12-29 22:19:38,062 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c2dxzyg9y3eo
+2024-12-29 22:19:38,107 - INFO - Scraped https://www.bbc.com/news/articles/c2dxzyg9y3eo.
+2024-12-29 22:19:38,118 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:19:40,706 - INFO - Browser listening on: ws://127.0.0.1:62577/devtools/browser/d3d218cf-5045-454b-aee5-cebce97d4490
+2024-12-29 22:19:44,957 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:19:44,996 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 22:19:45,007 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:19:47,180 - INFO - Browser listening on: ws://127.0.0.1:62603/devtools/browser/62493717-67ca-44ef-bbeb-2bb3e0885ed3
+2024-12-29 22:20:21,565 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:20:21,608 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 22:20:21,619 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 22:20:23,818 - INFO - Browser listening on: ws://127.0.0.1:62669/devtools/browser/79150972-d4b0-44b7-8cb6-7ca514be0544
+2024-12-29 22:20:33,277 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx26v70n5z4o
+2024-12-29 22:20:33,319 - INFO - Scraped https://www.bbc.com/news/articles/cx26v70n5z4o.
+2024-12-29 22:20:33,343 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 22:20:35,323 - INFO - Browser listening on: ws://127.0.0.1:62707/devtools/browser/d197db56-1d36-4afa-9a92-c8fb3a6d6533
+2024-12-29 22:20:39,766 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c623lerlr19o
+2024-12-29 22:20:39,800 - INFO - Scraped https://www.bbc.com/news/articles/c623lerlr19o.
+2024-12-29 22:20:39,810 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:20:42,062 - INFO - Browser listening on: ws://127.0.0.1:62744/devtools/browser/f073faad-cb46-4bc7-9a3d-060653b50fb2
+2024-12-29 22:21:01,617 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:21:01,658 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 22:21:01,670 - INFO - Sending request to URL: https://www.bbc.com/news/articles/clygpjgpk4do
+2024-12-29 22:21:04,331 - INFO - Browser listening on: ws://127.0.0.1:62783/devtools/browser/f952987b-e4ea-4c92-9f59-624cb7f14828
+2024-12-29 22:21:09,311 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/clygpjgpk4do
+2024-12-29 22:21:09,351 - INFO - Scraped https://www.bbc.com/news/articles/clygpjgpk4do.
+2024-12-29 22:21:09,362 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 22:21:11,184 - INFO - Browser listening on: ws://127.0.0.1:62816/devtools/browser/ac72e3f5-3736-46fa-a596-e996060f749c
+2024-12-29 22:21:17,528 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cvgxz76m1g8o
+2024-12-29 22:21:17,567 - INFO - Scraped https://www.bbc.com/news/articles/cvgxz76m1g8o.
+2024-12-29 22:21:17,596 - INFO - Sending request to URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 22:21:19,398 - INFO - Browser listening on: ws://127.0.0.1:62847/devtools/browser/7b5ce78f-5888-48de-b2bd-23d41ade9357
+2024-12-29 22:21:25,550 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/ckgzprprlyeo
+2024-12-29 22:21:25,596 - INFO - Scraped https://www.bbc.com/news/articles/ckgzprprlyeo.
+2024-12-29 22:21:25,630 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 22:21:28,929 - INFO - Browser listening on: ws://127.0.0.1:62881/devtools/browser/ea788aa6-6248-4613-ab86-2244c373c49f
+2024-12-29 22:21:42,295 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c3we2p3l36jo
+2024-12-29 22:21:42,340 - INFO - Scraped https://www.bbc.com/news/articles/c3we2p3l36jo.
+2024-12-29 22:21:42,353 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cgm9e97myrvo
+2024-12-29 22:21:44,163 - INFO - Browser listening on: ws://127.0.0.1:62931/devtools/browser/5447f17b-cbbf-47e3-9946-4ba7f3788701
+2024-12-29 22:21:51,867 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cgm9e97myrvo
+2024-12-29 22:21:51,909 - INFO - Scraped https://www.bbc.com/news/articles/cgm9e97myrvo.
+2024-12-29 22:21:51,921 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 22:21:53,903 - INFO - Browser listening on: ws://127.0.0.1:62972/devtools/browser/dbbdbeb5-342b-4ef0-a6e5-dd1ffabaadea
+2024-12-29 22:22:02,433 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cm2v1rl32j8o
+2024-12-29 22:22:02,483 - INFO - Scraped https://www.bbc.com/news/articles/cm2v1rl32j8o.
+2024-12-29 22:22:02,524 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 22:22:05,623 - INFO - Browser listening on: ws://127.0.0.1:63019/devtools/browser/68b710ae-5fc5-43f1-bf1d-08b38265bde9
+2024-12-29 22:22:24,289 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2w10wy1jyo
+2024-12-29 22:22:24,331 - INFO - Scraped https://www.bbc.com/news/articles/cx2w10wy1jyo.
+2024-12-29 22:22:24,342 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 22:22:27,165 - INFO - Browser listening on: ws://127.0.0.1:63058/devtools/browser/13ec2625-977c-47c5-8da6-1d43da02a599
+2024-12-29 22:22:41,855 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cd0ek943v7ko
+2024-12-29 22:22:41,899 - INFO - Scraped https://www.bbc.com/news/articles/cd0ek943v7ko.
+2024-12-29 22:22:41,934 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 22:22:45,136 - INFO - Browser listening on: ws://127.0.0.1:63101/devtools/browser/0424133e-d23c-4540-9021-55f2f56e28eb
+2024-12-29 22:23:10,275 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c789l8p8j7lo
+2024-12-29 22:23:10,359 - INFO - Scraped https://www.bbc.com/news/articles/c789l8p8j7lo.
+2024-12-29 22:23:10,378 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:23:13,673 - INFO - Browser listening on: ws://127.0.0.1:63158/devtools/browser/0f755536-2202-4b61-b5e8-0f578e39ee89
+2024-12-29 22:23:19,322 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0ew28eq2g7o
+2024-12-29 22:23:19,363 - INFO - Scraped https://www.bbc.com/news/articles/c0ew28eq2g7o.
+2024-12-29 22:23:19,374 - INFO - Sending request to URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 22:23:22,182 - INFO - Browser listening on: ws://127.0.0.1:63189/devtools/browser/68cbb430-15ec-4f2c-893e-d755f10e792c
+2024-12-29 22:23:32,203 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/c0rn2w0zw08o
+2024-12-29 22:23:32,242 - INFO - Scraped https://www.bbc.com/news/articles/c0rn2w0zw08o.
+2024-12-29 22:23:32,254 - INFO - Sending request to URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:23:35,170 - INFO - Browser listening on: ws://127.0.0.1:63224/devtools/browser/ef56f579-f326-4deb-9fba-e8c4f756f75f
+2024-12-29 22:23:43,291 - INFO - Success! Received 200 OK for URL: https://www.bbc.com/news/articles/cx2nvp0kxx6o
+2024-12-29 22:23:43,335 - INFO - Scraped https://www.bbc.com/news/articles/cx2nvp0kxx6o.
+2024-12-29 22:23:43,365 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:23:46,306 - INFO - Browser listening on: ws://127.0.0.1:63261/devtools/browser/39162525-ff9d-4698-84b5-5fdf60074e99
+2024-12-29 22:23:50,964 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:23:50,964 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:23:54,376 - INFO - Browser listening on: ws://127.0.0.1:63274/devtools/browser/5523ab44-cbc3-4477-88f1-664064d890b8
+2024-12-29 22:24:02,791 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:24:02,849 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 22:24:02,849 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 22:24:02,884 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro
+2024-12-29 22:24:06,432 - INFO - Browser listening on: ws://127.0.0.1:63286/devtools/browser/9c8d3786-b857-4e5b-af0b-3544763eaca6
+2024-12-29 22:24:15,529 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:24:15,571 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 22:24:21,248 - INFO - Browser listening on: ws://127.0.0.1:63302/devtools/browser/519909a3-3df0-4b4f-8c0e-abcfedd7d0e9
+2024-12-29 22:26:01,694 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/c1wq230g21ro
+2024-12-29 22:26:01,752 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 22:26:01,752 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/c1wq230g21ro.
+2024-12-29 22:26:01,793 - INFO - Sending request to URL: https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:26:09,144 - INFO - Browser listening on: ws://127.0.0.1:63387/devtools/browser/cc773c83-0f4d-43fa-ae2a-326aa0bc5021
+2024-12-29 22:26:12,116 - WARNING - Initial request returned status 404. Retrying...
+2024-12-29 22:26:12,116 - INFO - Retrying with modified URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:26:13,911 - INFO - Browser listening on: ws://127.0.0.1:63396/devtools/browser/a83ef98f-8556-4173-aa82-0dbd3d2b1a4e
+2024-12-29 22:26:17,971 - INFO - Retry successful! Received 200 OK for URL: https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do
+2024-12-29 22:26:18,027 - INFO - Scraped https://www.bbc.com/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 22:26:18,028 - INFO - Scraped https://www.bbc.com/news/sport/cricket/articles/cn8gpyj9q0do.
+2024-12-29 22:26:19,100 - INFO - Data exported successfully to SQLite.
+2024-12-29 22:26:19,101 - INFO - terminate chrome process...
+2024-12-29 22:26:19,147 - INFO - terminate chrome process...
+2024-12-29 22:26:19,187 - INFO - terminate chrome process...
+2024-12-29 22:26:19,470 - INFO - terminate chrome process...
+2024-12-29 22:26:19,510 - INFO - terminate chrome process...
+2024-12-29 22:26:19,553 - INFO - terminate chrome process...
+2024-12-29 22:26:19,613 - INFO - terminate chrome process...
+2024-12-29 22:26:19,701 - INFO - terminate chrome process...
+2024-12-29 22:26:19,796 - INFO - terminate chrome process...
+2024-12-29 22:26:19,895 - INFO - terminate chrome process...
+2024-12-29 22:26:20,000 - INFO - terminate chrome process...
+2024-12-29 22:26:20,088 - INFO - terminate chrome process...
+2024-12-29 22:26:20,214 - INFO - terminate chrome process...
+2024-12-29 22:26:20,313 - INFO - terminate chrome process...
+2024-12-29 22:26:20,397 - INFO - terminate chrome process...
+2024-12-29 22:26:20,497 - INFO - terminate chrome process...
+2024-12-29 22:26:20,621 - INFO - terminate chrome process...
+2024-12-29 22:26:20,766 - INFO - terminate chrome process...
+2024-12-29 22:26:20,882 - INFO - terminate chrome process...
+2024-12-29 22:26:21,001 - INFO - terminate chrome process...
+2024-12-29 22:26:21,085 - INFO - terminate chrome process...
+2024-12-29 22:26:21,201 - INFO - terminate chrome process...
+2024-12-29 22:26:21,314 - INFO - terminate chrome process...
+2024-12-29 22:26:21,480 - INFO - terminate chrome process...
+2024-12-29 22:26:21,575 - INFO - terminate chrome process...
+2024-12-29 22:26:21,727 - INFO - terminate chrome process...
+2024-12-29 22:26:21,817 - INFO - terminate chrome process...
+2024-12-29 22:26:21,935 - INFO - terminate chrome process...
+2024-12-29 22:26:21,992 - INFO - terminate chrome process...
+2024-12-29 22:26:22,086 - INFO - terminate chrome process...
+2024-12-29 22:26:22,197 - INFO - terminate chrome process...
+2024-12-29 22:26:22,305 - INFO - terminate chrome process...
+2024-12-29 22:26:22,395 - INFO - terminate chrome process...
+2024-12-29 22:26:22,511 - INFO - terminate chrome process...
+2024-12-29 22:26:22,600 - INFO - terminate chrome process...
+2024-12-29 22:26:22,688 - INFO - terminate chrome process...
+2024-12-29 22:26:22,816 - INFO - terminate chrome process...
+2024-12-29 22:26:22,910 - INFO - terminate chrome process...
+2024-12-29 22:26:22,962 - INFO - terminate chrome process...
+2024-12-29 22:26:23,071 - INFO - terminate chrome process...
+2024-12-29 22:26:23,159 - INFO - terminate chrome process...
+2024-12-29 22:26:23,255 - INFO - terminate chrome process...
+2024-12-29 22:26:23,374 - INFO - terminate chrome process...
+2024-12-29 22:26:23,467 - INFO - terminate chrome process...
+2024-12-29 22:26:23,617 - INFO - terminate chrome process...
