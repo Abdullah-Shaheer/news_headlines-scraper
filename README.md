@@ -16,8 +16,6 @@ This project is a Python-based web scraping tool designed to fetch news data fro
         
     *   Description
         
-    *   Image URL used in the article
-        
 *   **Technologies Used**:
     
     *   fake_useragent: To avoid detection by websites.
